@@ -7,4 +7,4 @@ In this instance, a map of Autralian airport cooridinates has been used. Then, e
 
 When mapped, the opaque ring is the starting size. Red padding shows size of decrease; black padding shows size of increase.
 
-Graphing is don in Plotly (GO) and includes customised hover text.
+Graphing is done in Plotly (GO) and includes customised hover text.
