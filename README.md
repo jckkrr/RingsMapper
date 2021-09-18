@@ -1,9 +1,9 @@
 ## GROWTH-RINGS MAPPER
 
 A script that plots growth-rings across map-like scatter plots; the grwoth-rings represent a change in value (such as a shift in airport traffic) over two periods.
+![newplot(5)](https://user-images.githubusercontent.com/69304112/133867509-b4626711-9af3-47ef-bc72-4fb54cc337ae.png)
 
 
-![newplot(4)](https://user-images.githubusercontent.com/69304112/133867248-512d56e8-4dc5-49ce-94a1-413e7ad356ab.png)
 
 # How it works
 
@@ -32,7 +32,7 @@ In this instance, a map of Autralian airport cooridinates has been used, with ai
 
 It includes an underlayer that plots (with small dots) each airport in the country.
 
-![newplot(5)](https://user-images.githubusercontent.com/69304112/133867509-b4626711-9af3-47ef-bc72-4fb54cc337ae.png)
+![newplot(4)](https://user-images.githubusercontent.com/69304112/133867248-512d56e8-4dc5-49ce-94a1-413e7ad356ab.png)
 
 
 
