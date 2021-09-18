@@ -1,5 +1,7 @@
-RingsMapper
+## GROWTH-RINGS MAPPER
+
 A script that plots growth-rings across map-like scatter plots; the grwoth-rings represent a change in value (such as a shift in airport traffic) over two periods.
+
 
 ![newplot(4)](https://user-images.githubusercontent.com/69304112/133867248-512d56e8-4dc5-49ce-94a1-413e7ad356ab.png)
 
