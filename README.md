@@ -23,8 +23,17 @@ Graphing is done in Plotly (GO).
 
 # Examples
 
+Here it is using coordinates of major airports around the world (and randomly genearted values)
+
+![newplot(6)](https://user-images.githubusercontent.com/69304112/133867988-12528020-ae46-4763-b7ed-b9167bb73655.png)
+
+
 In this instance, a map of Autralian airport cooridinates has been used, with airports selected and values generated at random. 
 
 It includes an underlayer that plots (with small dots) each airport in the country.
 
 ![newplot(5)](https://user-images.githubusercontent.com/69304112/133867509-b4626711-9af3-47ef-bc72-4fb54cc337ae.png)
+
+
+
+
