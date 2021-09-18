@@ -23,7 +23,7 @@ Graphing is done in Plotly (GO).
 
 # Examples
 
-Here it is using coordinates of major airports around the world (and randomly genearted values)
+Here it is using coordinates of major airports around the world (and randomly generated values)
 
 ![newplot(6)](https://user-images.githubusercontent.com/69304112/133867988-12528020-ae46-4763-b7ed-b9167bb73655.png)
 
